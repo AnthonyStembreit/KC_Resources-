@@ -1,0 +1,38 @@
+body{
+    margin:20px;
+    font-size: 22px;
+}
+h1, h3{
+    text-align: center;
+}
+h3{
+    margin-top: 0px;
+}
+p{
+    margin-top:0px;
+}
+#resources{
+    display: flex;
+    justify-content:center;
+    flex-wrap: wrap;
+}
+.catagory{
+    background-color: rgb(229, 219, 196);
+    border-radius: 15px;
+    padding: 10px;
+    padding-left:20px;
+    margin:15px;
+    width:60%;
+}
+#disclaimer-container{
+    width:90%;
+    display:flex;
+    flex-wrap: wrap;
+}
+#disclaimer-text{
+    margin-bottom:15px;
+}
+#disclaimer-header{
+   font-weight: bold;
+   font-size: 1.17em;
+}
