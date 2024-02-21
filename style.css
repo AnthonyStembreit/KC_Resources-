@@ -1,6 +1,10 @@
 body{
     margin:20px;
     font-size: 22px;
+    background-image: url("./pics/background_trans_colors.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 h1, h3{
     text-align: center;
@@ -17,7 +21,7 @@ p{
     flex-wrap: wrap;
 }
 .catagory{
-    background-color: rgb(229, 219, 196);
+    background-color: rgb(235, 235, 235);
     border-radius: 15px;
     padding: 10px;
     padding-left:20px;
